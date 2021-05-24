@@ -21,3 +21,5 @@ function destructivelyDeleteFromEmployeeByKey(employee, key) {
     delete employee[key];
     return employee;
 }
+
+// I'm a little unsure if I'm supposed to be adding any new content to this assignment, or if I am just supposed to push it back into the repo as is.
